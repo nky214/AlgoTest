@@ -15,6 +15,7 @@ public class Code09 {
 			tarray[i]=kb.nextInt();
 		}
 		kb.close();
+		
 
 		int [] dtarray = new int[n];
 
