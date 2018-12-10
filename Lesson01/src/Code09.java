@@ -28,8 +28,6 @@ public class Code09 {
 			System.out.print(dtarray[j]);
 		}
 
-
-
 	}
 
 }
