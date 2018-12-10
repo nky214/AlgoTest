@@ -14,7 +14,6 @@ public class Code03 {
 		grades[1]=200;
 		grades[3]=300;
 		
-		
 		System.out.println(grades);
 		
 		Scanner kb = new Scanner(System.in);

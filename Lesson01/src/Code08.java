@@ -15,8 +15,6 @@ public class Code08 {
 		for(int i=0; i<n; i++){
 			System.out.println("Put number");
 			data[i]=kb.nextInt();
-
-
 		}
 
 
